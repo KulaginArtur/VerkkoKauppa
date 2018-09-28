@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{917AD5BC-DC37-48BE-BBB7-AF27C2574719}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VerkkoKauppa/Program.cs">
+    <Files>
+      <File FileName="VerkkoKauppa/Program.cs" Line="31" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.VerkkoKauppa PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

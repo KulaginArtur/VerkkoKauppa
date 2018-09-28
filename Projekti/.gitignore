@@ -1,0 +1,6 @@
+.DS_Store
+VerkkoKauppa.csproj
+VerkkoKauppa.sln
+bin/
+obj/
+.vs/

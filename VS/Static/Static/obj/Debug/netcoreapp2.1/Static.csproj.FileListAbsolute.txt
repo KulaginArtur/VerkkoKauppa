@@ -1,0 +1,11 @@
+/Users/artur/Documents/VS/Static/Static/obj/Debug/netcoreapp2.1/Static.csprojAssemblyReference.cache
+/Users/artur/Documents/VS/Static/Static/obj/Debug/netcoreapp2.1/Static.csproj.CoreCompileInputs.cache
+/Users/artur/Documents/VS/Static/Static/obj/Debug/netcoreapp2.1/Static.AssemblyInfoInputs.cache
+/Users/artur/Documents/VS/Static/Static/obj/Debug/netcoreapp2.1/Static.AssemblyInfo.cs
+/Users/artur/Documents/VS/Static/Static/bin/Debug/netcoreapp2.1/Static.deps.json
+/Users/artur/Documents/VS/Static/Static/bin/Debug/netcoreapp2.1/Static.runtimeconfig.json
+/Users/artur/Documents/VS/Static/Static/bin/Debug/netcoreapp2.1/Static.runtimeconfig.dev.json
+/Users/artur/Documents/VS/Static/Static/bin/Debug/netcoreapp2.1/Static.dll
+/Users/artur/Documents/VS/Static/Static/bin/Debug/netcoreapp2.1/Static.pdb
+/Users/artur/Documents/VS/Static/Static/obj/Debug/netcoreapp2.1/Static.dll
+/Users/artur/Documents/VS/Static/Static/obj/Debug/netcoreapp2.1/Static.pdb
