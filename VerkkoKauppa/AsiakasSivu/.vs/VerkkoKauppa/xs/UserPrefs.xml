@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{AA14FEE4-8EA2-4997-87F3-DECE9CFA6A18}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tuote.cs">
+    <Files>
+      <File FileName="Program.cs" Line="8" Column="19" />
+      <File FileName="Tuote.cs" Line="11" Column="42" />
+      <File FileName="Tilaus.cs" Line="29" Column="2" />
+      <File FileName="Tulostaja.cs" Line="8" Column="10" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.VerkkoKauppa PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
